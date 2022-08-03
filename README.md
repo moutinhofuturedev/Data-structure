@@ -27,3 +27,22 @@ Array, vetor ou arranjo.É uma estrutura amplamento utlizada e implementada em q
 
 - básica e simples de criar e utilizar
 ![Alternate text](array.png)
+
+### Características
+
+- acesso pelo index
+- Respeita a ordem de incersão pelos elementos
+- Aceita valores duplicados
+
+> Arrays no javascript
+
+*São dinâmicos
+*Você poderá ter dados de diferentes tipos misturados dentro de um Array Strings, numbers, booleans, objetos, funções e até outros arrays
+*existem muitos métodos já implementados
+  *`push(), pop(), find(), filter()` entre outros
+
+### Matriz
+
+Matriz ou Vetor Multidimensional
+`Significa que é um array dentro de outro array`
+![Alternate text](array2.png)
