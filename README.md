@@ -44,5 +44,6 @@ Array, vetor ou arranjo.É uma estrutura amplamento utlizada e implementada em q
 ### Matriz
 
 Matriz ou Vetor Multidimensional
+
 `Significa que é um array dentro de outro array`
 ![Alternate text](array2.png)
