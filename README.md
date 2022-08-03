@@ -47,3 +47,25 @@ Matriz ou Vetor Multidimensional
 
 `Significa que é um array dentro de outro array`
 ![Alternate text](array2.png)
+
+## Queue
+
+Tradução de Queue é fila.Como uma fila em uma loja ou restaurante
+
+- linear
+- o primeiro a entrar na fila é o primeiro a sair
+
+### Conceitos
+
+`FIFO: First in First out`
+
+- o primeiro elemento a entrar na fila é o primeiro a sair dela
+
+> Front (frente) é a referência do primeiro elemento a entrar na fila
+> Back (fundo) é a referência do último elemento a entar da fila
+
+#### Métodos fundamentais
+
+- `enqueue()` adicionar um elemento ao final da fila
+- `dequeue()` remover o primeiro elemento a entrar na fila
+![Alternate text](array3.png)
