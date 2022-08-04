@@ -7,12 +7,12 @@ console.log(pilotos[2]) // => Schumacher
 //acessar o tamanho do array
 console.log(pilotos.length) // => 4 positions
 
-// interável
+// iterando os valores
 for(let pilot of pilotos) {
     console.log(pilot) // => Senna, Prost, Schumacher, Hammilton
 }
 
-// contando as positions
+// iterando as propriedades
 for(let pilot2 in pilotos) {
     console.log(pilot2) // => 0,1,2,3
 }
