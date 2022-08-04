@@ -23,7 +23,7 @@ exemplo: inserir, excluir, buscar, exibir...etc
 
 ## Arrays
 
-Array, vetor ou arranjo.É uma estrutura amplamento utlizada e implementada em quase todas as linguagens de programação
+Array, vetor ou arranjo.É uma estrutura amplamente utlizada e implementada em quase todas as linguagens de programação
 
 - básica e simples de criar e utilizar
 ![Alternate text](array.png)
