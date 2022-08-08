@@ -32,7 +32,7 @@ console.log(pilotos) // => ['Senna', 'Schumacher', 'Hammilton', 'Alonso'] deleto
 
 pilotos.pop() // => tira o último elemento do array
 console.log(`tirei da lista os pilotos ${pilotos}`)
-// => para remover o primeiro elemento do array, usamos o método shift()
+// => para remover o primeiro elemento do array, usamos o método #1 shift()
 
 // STACK NO CÓDIGO
 // Passo 1: modelando
