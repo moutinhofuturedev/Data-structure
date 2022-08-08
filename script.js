@@ -17,20 +17,22 @@ for(let pilot2 in pilotos) {
     console.log(pilot2) // => 0,1,2,3
 }
 
-// adicionar elements
+// adicionar elementos no final do array
 pilotos.push('Alonso')
 console.log(pilotos) // => ['Senna', 'Prost', 'Schumacher', 'Hammilton', 'Alonso']
+// => para adicionar elementos no início do array, usamos o método unshift()
 
 // encontar um elemento
 const getPilot = pilotos.find(element => element === 'Schumacher')
 console.log(`Encontramos o piloto ${getPilot}`)
 
-// deletar um elemento
+// deletar um index dentro do array
 pilotos.splice(1, 1)
 console.log(pilotos) // => ['Senna', 'Schumacher', 'Hammilton', 'Alonso'] deletou o index [1]
 
-pilotos.pop() // => tira a última posição do array
+pilotos.pop() // => tira o último elemento do array
 console.log(`tirei da lista os pilotos ${pilotos}`)
+// => para remover o primeiro elemento do array, usamos o método shift()
 
 // STACK NO CÓDIGO
 // Passo 1: modelando
